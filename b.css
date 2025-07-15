@@ -1,0 +1,58 @@
+.fundo2{
+    background-image: url(https://i.pinimg.com/originals/a5/78/82/a57882e3a22392d25d14885d54b656b6.gif);
+    background-color: royalblue;
+    background-repeat: no-repeat;
+    background-size: 1000px; 
+
+}
+.tabela{
+    padding: left;
+    border-collapse: collapse;
+    width: 100%;
+    height: 50px;
+}
+.tabela th, .tabela td{
+    border: 1px solid #f2f2f2;
+    padding: 25px;
+    padding-bottom: 10px;
+    text-align: left;
+    color: black;
+}
+.tabela th{
+    font-weight: bold; 
+    background-color: #f2f2f2;
+}
+.tabela td{
+      font-style: italic; 
+}
+.botão {
+    margin-left: 20px;
+padding: 8px 23px;
+}
+.botão2{
+    margin-left: 15px ;
+padding: 8px 23px;
+margin-top: center;
+}
+
+.tabela2{
+    border-collapse: collapse;
+        padding: left;
+        color:black;
+        background-image: url(https://i.pinimg.com/736x/1e/b4/29/1eb429597fc971c48fffb65618429547.jpg);
+        background-repeat: no-repeat;
+        background-size: 1000px; 
+        width: 100%;
+        height: 100%;
+        }
+
+        .tabela2 th, .tabela2 td{
+            text-size-adjust: 100%;
+    text-emphasis: none;
+    border: 1px solid #f2f2f2;
+    padding: 25px;
+    padding-bottom: 10px;
+    text-align: left;
+    text-align: start;
+    color: rgb(255, 255, 255);
+}

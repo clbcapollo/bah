@@ -45,11 +45,14 @@ cursor: pointer;
     border-radius: 100px;
     border: solid;
     color: rgb(255, 238, 5);
-    background-color: rgb(26, 144, 255);
+    background-color: rgb(27, 145, 255);
     display:block ; margin: 0 auto ;
     padding: 30px 250px;
 }
-
+.texto{
+text-align: center;
+color: rgb(140, 198, 253)
+}
 
 .tabela2{
     border-collapse: collapse;
